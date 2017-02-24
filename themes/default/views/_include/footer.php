@@ -28,7 +28,7 @@
 <div id="footer">
   <div class="wrap clear">
     <div class="act"><p>&nbsp;</p>
-      <p><?php echo $this->_conf['site_copyright']?>&nbsp;&nbsp;Powered by <a href="http://www.bagecms.com">BageCMS</a> &nbsp;&nbsp;<?php if($this->_conf['site_icp']):?>( <a href="http://www.miitbeian.gov.cn/" target="_blank"><?php echo $this->_conf['site_icp']?></a> ) <?php endif?><?php echo $this->_conf['site_stats']?></p>
+      <p><?php echo $this->_conf['site_copyright']?>&nbsp;&nbsp;&nbsp;&nbsp;<?php if($this->_conf['site_icp']):?>( <a href="http://www.miitbeian.gov.cn/" target="_blank"><?php echo $this->_conf['site_icp']?></a> ) <?php endif?><?php echo $this->_conf['site_stats']?></p>
     </div>
   </div>
 </div>
